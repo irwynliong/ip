@@ -1,10 +1,10 @@
-package Commands;
+package commands;
 
-import Irwyn.Exceptions.CommandException;
-import Misc.StorageManager;
-import Misc.Ui;
-import Irwyn.Tasks.Deadline;
-import Irwyn.Tasks.TaskList;
+import irwyn.exceptions.CommandException;
+import misc.StorageManager;
+import misc.Ui;
+import irwyn.tasks.Deadline;
+import irwyn.tasks.TaskList;
 
 import java.time.format.DateTimeParseException;
 

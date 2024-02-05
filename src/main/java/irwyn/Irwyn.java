@@ -1,11 +1,11 @@
-package Irwyn;
+package irwyn;
 
-import Commands.Command;
-import Commands.CommandParser;
-import Irwyn.Exceptions.IrwynException;
-import Irwyn.Tasks.TaskList;
-import Misc.StorageManager;
-import Misc.Ui;
+import commands.Command;
+import commands.CommandParser;
+import irwyn.exceptions.IrwynException;
+import irwyn.tasks.TaskList;
+import misc.StorageManager;
+import misc.Ui;
 
 import java.util.Scanner;
 

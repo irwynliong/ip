@@ -1,8 +1,8 @@
-package Commands;
+package commands;
 
-import Irwyn.Tasks.TaskList;
-import Misc.Ui;
-import Misc.StorageManager;
+import irwyn.tasks.TaskList;
+import misc.Ui;
+import misc.StorageManager;
 
 /**
  * This is an abstract class for all Commands used in the chatbot.

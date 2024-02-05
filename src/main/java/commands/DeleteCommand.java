@@ -1,9 +1,9 @@
-package Commands;
+package commands;
 
-import Irwyn.Tasks.Task;
-import Irwyn.Tasks.TaskList;
-import Misc.StorageManager;
-import Misc.Ui;
+import irwyn.tasks.Task;
+import irwyn.tasks.TaskList;
+import misc.StorageManager;
+import misc.Ui;
 
 /**
  * This class encapsulates the class DeleteCommand.

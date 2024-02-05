@@ -1,6 +1,6 @@
-package Misc;
+package misc;
 
-import Irwyn.Tasks.Task;
+import irwyn.tasks.Task;
 
 import java.io.File;
 import java.io.FileWriter;

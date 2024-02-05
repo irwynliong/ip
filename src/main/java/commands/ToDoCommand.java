@@ -1,9 +1,9 @@
-package Commands;
+package commands;
 
-import Irwyn.Tasks.TaskList;
-import Irwyn.Tasks.ToDo;
-import Misc.StorageManager;
-import Misc.Ui;
+import irwyn.tasks.TaskList;
+import irwyn.tasks.ToDo;
+import misc.StorageManager;
+import misc.Ui;
 
 /**
  * This class encapsulates the class ToDoCommand.

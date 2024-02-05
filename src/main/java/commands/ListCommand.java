@@ -1,9 +1,9 @@
-package Commands;
+package commands;
 
-import Irwyn.Tasks.TaskList;
-import Misc.StorageManager;
-import Misc.Ui;
-import Irwyn.Tasks.Task;
+import irwyn.tasks.TaskList;
+import misc.StorageManager;
+import misc.Ui;
+import irwyn.tasks.Task;
 import java.util.ArrayList;
 
 /**

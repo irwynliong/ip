@@ -1,8 +1,8 @@
-package Commands;
+package commands;
 
-import Misc.StorageManager;
-import Misc.Ui;
-import Irwyn.Tasks.TaskList;
+import misc.StorageManager;
+import misc.Ui;
+import irwyn.tasks.TaskList;
 
 /**
  * This class encapsulates the class EndCommand.

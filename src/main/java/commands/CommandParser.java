@@ -1,7 +1,7 @@
-package Commands;
+package commands;
 
-import Irwyn.Exceptions.IrwynException;
-import Irwyn.Exceptions.TaskException;
+import irwyn.exceptions.IrwynException;
+import irwyn.exceptions.TaskException;
 
 /**
  * This class encapsulates Command Parser which parses commands.

@@ -1,10 +1,10 @@
-package Commands;
+package commands;
 
-import Irwyn.Exceptions.CommandException;
-import Irwyn.Tasks.TaskList;
-import Misc.StorageManager;
-import Misc.Ui;
-import Irwyn.Tasks.Event;
+import irwyn.exceptions.CommandException;
+import irwyn.tasks.TaskList;
+import misc.StorageManager;
+import misc.Ui;
+import irwyn.tasks.Event;
 
 /**
  * This class encapsulates the class EventCommand.

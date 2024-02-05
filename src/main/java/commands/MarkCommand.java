@@ -1,9 +1,9 @@
-package Commands;
+package commands;
 
-import Misc.StorageManager;
-import Misc.Ui;
+import misc.StorageManager;
+import misc.Ui;
 
-import Irwyn.Tasks.TaskList;
+import irwyn.tasks.TaskList;
 
 /**
  * This class encapsulates the class MarkCommand.
